@@ -1,0 +1,4 @@
+2021-04-23T07:33:27.110Z Error: command list not found
+2021-04-23T07:33:27.110Z     at Config.runCommand (/opt/conda/lib/node_modules/qcs-cli/node_modules/@oclif/config/lib/config.js:169:19)
+2021-04-23T07:33:27.110Z     at async Main.run (/opt/conda/lib/node_modules/qcs-cli/node_modules/@oclif/command/lib/main.js:27:9)
+2021-04-23T07:33:27.110Z     at async Main._run (/opt/conda/lib/node_modules/qcs-cli/node_modules/@oclif/command/lib/command.js:43:20)

@@ -1,0 +1,3 @@
+[Rigetti Forest]
+url = https://forest-server.qcs.rigetti.com
+dispatch_url = https://dispatch.services.qcs.rigetti.com/graphql

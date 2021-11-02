@@ -1,0 +1,5 @@
+<134>1 2021-11-02T06:43:07Z jupyter-00u8azsxlcp0otmf7357 quilc 30 LOG0001 - Launching quilc.
+<134>1 2021-11-02T06:43:07Z jupyter-00u8azsxlcp0otmf7357 quilc 30 - - Spawning server at (tcp://*:5555) .
+
+<133>1 2021-11-02T06:43:08Z jupyter-00u8azsxlcp0otmf7357 quilc 30 LOG0001 - An update is available to the SDK. You have version 1.22.0. Version 1.23.0 is available from https://qcs.rigetti.com/sdk-downloads
+
